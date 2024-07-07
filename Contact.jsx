@@ -1,7 +1,7 @@
 import React from 'react'
 import {nanoid} from 'nanoid'
-export default function Contact(){
 
+export default function Contact(){
   //static data array creation(contactIcons) .use separate file if needed
   const contactIcons = [{
     id: nanoid(),
